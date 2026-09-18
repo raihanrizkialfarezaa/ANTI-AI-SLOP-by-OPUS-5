@@ -1,0 +1,63 @@
+{
+  "istilah_terkunci": [
+    "outbox",
+    "idempotency key",
+    "Monolith Terpusat",
+    "EDA Tanpa Proteksi",
+    "EDA dengan Proteksi",
+    "konsistensi data",
+    "recovery window",
+    "publisher confirm",
+    "oversell",
+    "lost update",
+    "duplicate effect",
+    "permanent mismatch",
+    "untraceable event",
+    "terminal-state coverage"
+  ],
+  "sinonim_terlarang": {
+    "outbox": [
+      "tabel perantara",
+      "buffer kejadian",
+      "penampung pesan",
+      "tabel penampung",
+      "buffer peristiwa"
+    ],
+    "konsistensi data": [
+      "efektivitas",
+      "keandalan sistem",
+      "kualitas data"
+    ],
+    "Monolith Terpusat": [
+      "arsitektur konvensional",
+      "sistem lama",
+      "monolitik tradisional",
+      "Kondisi A"
+    ],
+    "EDA Tanpa Proteksi": [
+      "EDA dasar",
+      "EDA polos",
+      "Kondisi B"
+    ],
+    "EDA dengan Proteksi": [
+      "EDA lengkap",
+      "EDA termitigasi",
+      "Kondisi C"
+    ],
+    "recovery window": [
+      "masa pemulihan",
+      "periode stabilisasi"
+    ]
+  },
+  "nama_diri": [
+    "Apotek Bisma",
+    "Ibu Atik",
+    "Ibu Sri Utami",
+    "Mojokerto",
+    "UNESA",
+    "RabbitMQ",
+    "MySQL",
+    "Docker Compose",
+    "Sooko"
+  ]
+}

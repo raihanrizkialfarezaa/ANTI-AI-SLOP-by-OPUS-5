@@ -1,0 +1,6 @@
+# Wajib: tidak ada. slop_audit.py dan invariant_check.py hanya memakai pustaka
+# bawaan Python 3.9+ (re, gzip, json, statistics, difflib, unicodedata).
+
+# Opsional, hanya untuk tools/deep_audit.py (audit lapis probabilitas token):
+torch>=2.0
+transformers>=4.40
